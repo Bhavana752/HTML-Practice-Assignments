@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HTML5 Semantic Elements</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #4c89af;
+            color: white;
+            padding: 10px;
+            text-align: center;
+        }
+        nav {
+            background-color: #333;
+            color: white;
+            padding: 10px;
+            text-align: center;
+        }
+        nav a {
+            color: white;
+            margin: 0 15px;
+            text-decoration: none;
+        }
+        section {
+            padding: 20px;
+        }
+        article {
+            background-color: #f4f4f4;
+            padding: 15px;
+            margin-bottom: 10px;
+        }
+        aside {
+            background-color: #f9f9f9;
+            padding: 15px;
+            margin-top: 10px;
+        }
+        footer {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 10px;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Welcome to My Website</h1>
+        <p>Your one-stop destination for information</p>
+    </header>
+
+    <nav>
+        <a href="#home">Home</a>
+        <a href="#about">About</a>
+        <a href="#services">Services</a>
+        <a href="#contact">Contact</a>
+    </nav>
+
+    <section>
+        <article>
+            <h2>Article 1: Introduction to HTML5</h2>
+            <p>HTML5 introduces new semantic elements that improve the structure and accessibility of web pages.</p>
+        </article>
+
+        <article>
+            <h2>Article 2: Benefits of Semantic Markup</h2>
+            <p>Semantic HTML provides better SEO, accessibility, and clarity for developers and browsers.</p>
+        </article>
+
+        <aside>
+            <h3>Related Links</h3>
+            <ul>
+                <li><a href="#">HTML5 Tutorials</a></li>
+                <li><a href="#">CSS Styling</a></li>
+                <li><a href="#">Web Development Tips</a></li>
+            </ul>
+        </aside>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 My Website. All rights reserved.</p>
+    </footer>
+
+</body>
+</html>
