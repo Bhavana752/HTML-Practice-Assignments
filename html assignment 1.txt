@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Self Introduction</title>
+</head>
+<body>
+    <h1>Name</h1>
+    <p>Bhavana Gowda</p>
+    <h2>introduction</h2>
+    <p>Hello! My name is Bhavana, and I’m currently pursuing a degree in Computer Science Engineering at presidency university. I have a strong interest in areas like software development,and I enjoy working on hands-on projects that involve coding in languages like Python, Java, and C++. I’m particularly passionate about solving complex problems, and I’m continuously learning new technologies such as web development, machine learning, and cloud computing.I’m eager to apply my knowledge through internships and collaborations to further grow as a professional in the tech industry.</p>
+    <h2>My Hobbies</h2>
+    <ul>
+        <li>Listen Music</li>
+        <li>Drawing</li>
+        <li>Editing Videos</li>
+    </ul>
+    <p>Visit my favorite <a href="https://www.netflix.com/">"website"</a></p>
+</body>
+</html>
