@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> HTML Media </title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+        h2 {
+            color: #333;
+        }
+        .media-container {
+            margin-bottom: 40px;
+        }
+        .media-container audio, 
+        .media-container video {
+            display: block;
+            margin-top: 10px;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Media Elements: Audio and Video Player</h1>
+    <div class="media-container">
+        <h2>Audio: Nature Sounds</h2>
+        <p>This is an audio player with a recording of relaxing nature sounds.</p>
+        <audio controls>
+            <source src="https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3" type="audio/mpeg">
+            Your browser does not support the audio element.
+        </audio>
+    </div>
+    <div class="media-container">
+        <h2>Video: Ocean Waves</h2>
+        <p>This video showcases calming ocean waves lapping at the shore.</p>
+        <video width="640" height="360" controls>
+            <source src="https://www.w3schools.com/html/mov_bbb.mp4" type="video/mp4">
+            Your browser does not support the video element.
+        </video>
+    </div>
+
+</body>
+</html>
