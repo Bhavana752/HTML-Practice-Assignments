@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Comments and Special characters</title>
+</head>
+<body>
+    <h1>Comments and Special Characters in HTML</h1>
+    <p>HTML entities are used to display special characters.</p>
+    <p>Here are some examples:</p>
+    <ul>
+        <li>&amp; - The ampersand character</li>
+        <li>&lt; - The less-than sign</li>
+        <li>&gt; - The greater-than sign</li>
+        <li>&copy; - The copyright symbol</li>
+        <li>&reg; - The registered trademark symbol</li>
+        <li>&trade; - The trademark symbol</li>
+    </ul>
+    <p>In HTML, you can use these entities to include characters in your content without causing issues.</p> 
+    <p>Here's a link to the &copy;2024 My Website:</p>
+    <a href="https://www.google.com">Visit My Website &copy;2024</a>
+</body>
+</html>
