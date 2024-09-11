@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Weekly schedule</title>
+</head>
+<body>
+    <h2> My Weekly Schedule</h2>
+    <table border="1">
+        <thead>
+            <tr>
+                <td>Time</td>
+                <td>Monday</td>
+                <td>Tuesday</td>
+                <td>Wednesday</td>
+                <td>Thursday</td>
+                <td>Friday</td>
+                <td>Saturday</td>
+                <td>Sunday</td>
+            </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Morning</td>
+                    <td>Do exercise and fresh up for the day</td>
+                    <td>Do exercise and fresh up for the day</td>
+                    <td>Do exercise and fresh up for the day</td>
+                    <td>Do exercise and fresh up for the day</td>
+                    <td>Do exercise and fresh up for the day</td>
+                    <td>Do exercise</td>
+                    <td>Take Rest</td>
+                </tr>
+                <tr>
+                    <td>Afternoon</td>
+                    <td>Studying</td>
+                    <td>Studying</td>
+                    <td>Studying</td>
+                    <td>Studying</td>
+                    <td>Studying</td>
+                    <td>Studying</td>
+                    <td>Lunch with family</td>
+                </tr>
+                <tr>
+                    <td>Evening</td>
+                    <td>Playing</td>
+                    <td>Playing</td>
+                    <td>Playing</td>
+                    <td>Playing</td>
+                    <td>Playing</td>
+                    <td>Playing</td>
+                    <td>Going out with friends</td>
+                </tr>
+
+            </tbody>
+    </table>
+</body>
+</html>
