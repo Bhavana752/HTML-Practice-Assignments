@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>image with image source</title>
+    <style>
+        .image-container {
+            text-align: center;
+            margin-top: 50px;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+        }
+        .caption {
+            font-size: 1.2em;
+            margin-top: 10px;
+        }
+        .source-link {
+            font-size: 0.9em;
+            margin-top: 5px;
+        }
+    </style>
+</head>
+<body>
+    <div class="image-container">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmRHGmM-Xa3HFEOMA9nxg-FHPJzduQOzb7_Q&s" alt="Cute dog">
+        <div class="caption">Presidency University Logo</div>
+        <div class="source-link">
+            Image source: <a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmRHGmM-Xa3HFEOMA9nxg-FHPJzduQOzb7_Q&s" target="_blank">link</a>
+        </div>
+    </div>
+</body>
+</html>
